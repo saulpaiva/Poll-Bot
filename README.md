@@ -23,3 +23,11 @@ Um bot de Discord que permite criar e gerenciar enquetes em seus servidores.
 1. Instale as dependências:
 
 pip install -r requirements.txt
+
+2. Coloque o TOKEN do seu Bot no aquivo .env
+
+`DISCORD_TOKEN=coloque_o_seu_token_aqui`
+
+3. Para rodar o Bot localmente, abra o prompt de comando e digite:
+
+`python main.py`
